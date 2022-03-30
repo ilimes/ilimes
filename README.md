@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ### 🔨 Tech Stack 🔨
 - <strong>Programming Language :</strong> <img src="https://camo.githubusercontent.com/82759671042a7769bf9a772c1c1f7e64e46cd013114a9bda39e43c318f9be335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-339933?style=flat-square&amp;logo=Java&amp;logoColor=white" style="max-width: 100%;">
-- Web Front-End :    
+- <strong>Web Front-End :</strong> <img src="https://camo.githubusercontent.com/7f7e9321475cea7b65f2789e55d1bac05acfaa497842bf92377ceeddc78509dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4646443730303f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" style="max-width: 100%;">
 - Web Back-End : 
