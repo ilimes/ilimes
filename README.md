@@ -1,3 +1,5 @@
+<div align='center'>
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:C1CC89,100:6DA55F&height=300&section=header&text=HI!👋%20I%20am%20Daegyu&fontSize=42&fontColor=fff)
 
 <!--
@@ -17,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 ### 🔨 Tech Stack
 <div style="margin: 10px 0 20px 0;">
@@ -45,8 +46,10 @@ Here are some ideas to get you started:
 </div>
  
  ### ✉ Find me!
- - Email : ilimes1307@gmail.com
- - Blog : https://ilimes.github.io
+<div> Email : ilimes1307@gmail.com</div>
+<div> Blog : https://ilimes.github.io</div>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Filimes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
