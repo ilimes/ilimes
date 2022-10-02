@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20am%20Daegyu&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:C1CC89,100:6DA55F&height=300&section=header&text=HI!👋%20I%20am%20Daegyu&fontSize=42&fontColor=fff)
 
 <!--
 ### Hi 👋
