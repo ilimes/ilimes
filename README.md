@@ -1,27 +1,13 @@
-<div align='center'>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Filimes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:C1CC89,100:6DA55F&height=300&section=header&text=HI!👋%20I%20am%20Daegyu&fontSize=42&fontColor=fff)
+## 👩🏻‍💻 About me
 
-<!--
-### Hi 👋
-I'm ilimes
+Hi! I am Daegyu 👋
 
-**ilimes/ilimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Email : ilimes1307@gmail.com
+- Blog : https://ilimes.github.io
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 🔨 Tech Stack
-<br>
+## 🔨 Tech Stack
 <div>
     <div>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -45,15 +31,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
     </div>
 </div>
-<br>
- 
-### ✉ Find me!
-<br>
-<div> Email : ilimes1307@gmail.com</div>
-<div> Blog : https://ilimes.github.io</div>
-<br>
-<br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Filimes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
+
+
