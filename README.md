@@ -4,13 +4,13 @@
 
 ## 👩🏻‍💻 About me
 
-Hello, I'm Daegyu Lee! 👋
+### Hello, I'm Daegyu Lee! 👋
 
 - Email: ilimes1307@gmail.com
 - Blog: https://ilimes.github.io
 - GitHub: https://github.com/ilimes  
 
-## 🔨 Tech Stack
+### 🔨 Tech Stack
 <div>
     <div>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
