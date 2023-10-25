@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me
 
-Hi! I am Daegyu 👋
+Hello, I'm Daegyu Lee! 👋
 
 - Email : ilimes1307@gmail.com
 - Blog : https://ilimes.github.io
