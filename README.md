@@ -6,8 +6,9 @@
 
 Hello, I'm Daegyu Lee! 👋
 
-- Email : ilimes1307@gmail.com
-- Blog : https://ilimes.github.io
+- Email: ilimes1307@gmail.com
+- Blog: https://ilimes.github.io
+- GitHub: https://github.com/ilimes  
 
 ## 🔨 Tech Stack
 <div>
