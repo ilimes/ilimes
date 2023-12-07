@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 About me
 
-### Hello, I'm Daegyu Lee! 👋
+### Hello, I'm Daegyu Lee :) 👋
 
 - **Email** - ilimes1307@gmail.com
 - **Blog** - https://ilimes.github.io
