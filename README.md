@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=timeGradient&text=FrontEnd%20Developer&fontSize=40&fontColor=FFFFFF&fontAlign=32&fontAlignY=36&animation=fadeIn&desc=ilimes&descSize=36&descAlign=86&descAlignY=36" style="width: 100%;" />
+
 <div align="right">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Filimes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ProfileView&edge_flat=false" />
 </div>
