@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=timeGradient&text=FrontEnd%20Developer&fontSize=40&fontColor=FFFFFF&fontAlign=32&fontAlignY=36&animation=fadeIn&desc=ilimes&descSize=36&descAlign=86&descAlignY=36" style="width: 100%;" />
+<img src="https://github.com/ilimes/ilimes/assets/95404736/20570d2a-3b00-442c-927d-ee364e8b699d" width="400" />
 
 <div align="right">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Filimes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ProfileView&edge_flat=false" />
