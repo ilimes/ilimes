@@ -1,4 +1,6 @@
-<img src="https://github.com/ilimes/ilimes/assets/95404736/20570d2a-3b00-442c-927d-ee364e8b699d" width="400" />
+<div align="center">
+    <img src="https://github.com/ilimes/ilimes/assets/95404736/54c23d49-b8d5-499a-b4b0-b585b51b9a1b" width="400" />
+</div>
 
 <div align="right">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Filimes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ProfileView&edge_flat=false" />
