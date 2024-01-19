@@ -14,7 +14,7 @@
 - **Blog** - https://ilimes.github.io
 - **GitHub** - https://github.com/ilimes  
 
-### ✨ Tech Stack
+### <img src="https://emojis.slackmojis.com/emojis/images/1611981042/12288/nyan_wallstreetbets.gif?1611981042" width="20"/> Tech Stack
 <div>
     <a><img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=#F7DF1E"/></a>
     <a><img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=Typescript&logoColor=#3178C6"/></a>
