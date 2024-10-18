@@ -11,7 +11,7 @@
 ### Hello, I'm Daegyu Lee :) 👋
 
 - **Email** - ilimes1307@gmail.com
-- **Blog** - https://ilimes.github.io
+- **Blog** - https://blog.ilime.kr
 - **GitHub** - https://github.com/ilimes  
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1611981042/12288/nyan_wallstreetbets.gif?1611981042" width="20"/> Tech Stack
